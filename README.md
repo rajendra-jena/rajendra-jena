@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I Am Rajendra !!! 😀</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
+<h1 align="center">I am Rajendra !!! 😀</h1>
 <h4 align="center">I am working as a Senior Technology Architect in Data Engineering Field and an Enthusiast Data Scientist, <br> currently at Infosys Limited</h4>
 
 
@@ -11,10 +11,10 @@
 * ETL Pipelines
 * Cloud Computing
 * Machine Learning
+* Generative AI 
 * Statistical Data Analysis
 * Natural Language Processing
 * MLOps
-* Generative AI 
 * Computer vision 
 * Deep Learning
 
